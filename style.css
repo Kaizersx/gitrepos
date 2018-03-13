@@ -1,2 +1,8 @@
 #div1 {color: red;}
 h1 {font-size: 42px;}
+
+body{
+	background: yellow;
+	width: 970px;
+	margin: 0 auto;
+}
